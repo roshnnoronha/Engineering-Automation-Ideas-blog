@@ -1,6 +1,0 @@
-\contentsline {section}{\numberline {1}PURPOSE AND SCOPE}{2}{section.1}%
-\contentsline {section}{\numberline {2}GEOMETRY}{2}{section.2}%
-\contentsline {section}{\numberline {3}MATERIAL SPECIFICATIONS}{2}{section.3}%
-\contentsline {section}{\numberline {4}DESIGN PHILOSOPHY}{2}{section.4}%
-\contentsline {section}{\numberline {5}DESIGN RESULTS}{4}{section.5}%
-\contentsline {section}{\numberline {6}ATTACHMENT 1: OUTPUT FILES}{5}{section.6}%
